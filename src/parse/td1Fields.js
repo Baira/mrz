@@ -35,8 +35,8 @@ module.exports = [
   }),
   Object.assign({}, documentNumberTemplate, {
     line: 0,
-    start: 5,
-    end: 14,
+    start: 15,
+    end: 25,
     related: [
       {
         line: 0,
