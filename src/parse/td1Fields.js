@@ -41,12 +41,12 @@ module.exports = [
       {
         line: 0,
         start: 14,
-        end: 15,
+        end: 24,
       },
       {
         line: 0,
         start: 15,
-        end: 30,
+        end: 25,
       },
     ],
   }),
